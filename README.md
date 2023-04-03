@@ -2,6 +2,7 @@
 
 
 ![](https://imenso.co/language-badge/php8.png)
+![](https://imenso.co/language-badge/laravel8.png)
 ![](https://imenso.co/language-badge/bootstrap5.png)
 ![](https://imenso.co/language-badge/mysql5.png)
 ![](https://imenso.co/language-badge/html5.png)
